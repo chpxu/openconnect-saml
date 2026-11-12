@@ -19,3 +19,4 @@ uv.lock
 .idea
 # mkdocs build output (built by .github/workflows/docs.yml on each main push)
 /site/
+result*
